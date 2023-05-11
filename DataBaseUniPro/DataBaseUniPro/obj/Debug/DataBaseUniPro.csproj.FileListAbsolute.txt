@@ -1,0 +1,16 @@
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\bin\Debug\DataBaseUniPro.exe.config
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\bin\Debug\DataBaseUniPro.exe
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\bin\Debug\DataBaseUniPro.pdb
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.csproj.AssemblyReference.cache
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.Properties.Resources.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.csproj.GenerateResource.cache
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.csproj.CoreCompileInputs.cache
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.exe
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.pdb
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.Admin.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.facultys.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.profesors.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.students.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.Subjects.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.Departments.resources
+C:\Users\omara\source\repos\DataBaseUniPro\DataBaseUniPro\obj\Debug\DataBaseUniPro.Main.resources
